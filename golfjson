@@ -1,8 +1,8 @@
 token-metadata-creator entry baa836fef09cb35e180fce4b55ded152907af1e2c840ed5218776f2f6d7961737365746e616d65 \
   --name "Dos y Dos" \
-  --description "Skin Rules-2$ a hole, 1 dot is 2$-2 tie all tie-Win the hole with a birdie get an extra dot win 2 dots, win with a eagle get 2 dots plus the hole." \
-  --policy policy.json
-  --ticker "TKN" \
+  --description "Skin Rules-2$ a hole, 1 dot is 2$-2 tie all tie. Click URL below for all rules." \
+  --policy golfcoin.json
+  --ticker "GOLF" \
   --url "https://finalfantasy.fandom.com/wiki/Gil" \
   --logo "icon.png" \
   --decimals 4         
