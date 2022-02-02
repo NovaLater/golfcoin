@@ -3,6 +3,6 @@ token-metadata-creator entry baa836fef09cb35e180fce4b55ded152907af1e2c840ed52187
   --description "Skin Rules-2$ a hole, 1 dot is 2$-2 tie all tie. Click URL below for all rules." \
   --policy golfcoin.json
   --ticker "GOLF" \
-  --url "https://www.rpawstakepools.com/golf/" \
+  --url "https://bit.ly/golfcoin" \
   --logo "icon.png" \
   --decimals 4         
