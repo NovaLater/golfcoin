@@ -1,8 +1,9 @@
-token-metadata-creator entry baa836fef09cb35e180fce4b55ded152907af1e2c840ed5218776f2f6d7961737365746e616d65 \
-  --name "Dos y Dos" \
-  --description "Skin Rules-2$ a hole, 1 dot is 2$-2 tie all tie. Click URL below for all rules." \
-  --policy golfcoin.json
-  --ticker "GOLF" \
-  --url "https://bit.ly/golfcoin" \
-  --logo "icon.png" \
-  --decimals 4         
+{
+	"subject": "36e1d3481c77e4968ae050c814a35c1a2d0b953b31832d4c45353fbd474f4c46",
+	"name": "Dos y Dos",
+	"description": "Skin Rules-2$ a hole, 1 dot is 2$-2 tie all tie. Click URL below for all rules.",
+	"policy": "36e1d3481c77e4968ae050c814a35c1a2d0b953b31832d4c45353fbd474f4c46.json",
+	"ticker": "GOLF",
+	"url": "https://bit.ly/golfcoin",
+	"logo": "https://ipfs.io/ipfs/QmPCHqRrJ2cYqbS6D9GVdTDwyeskcZ2Ln5MGJK28rJaehi?filename=GolfCoin.png",
+	"decimals": 0
