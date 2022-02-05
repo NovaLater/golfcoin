@@ -5,6 +5,6 @@
 	"policy": "golfcoin.json",
 	"ticker": "GOLF",
 	"url": "https://bit.ly/golfcoin",
-	"logo": "https://ipfs.io/ipfs/QmPCHqRrJ2cYqbS6D9GVdTDwyeskcZ2Ln5MGJK28rJaehi?filename=GolfCoin.png",
+	"logo": "gc.jph",
 	"decimals": 0
 }
