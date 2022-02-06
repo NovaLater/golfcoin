@@ -1,10 +1,10 @@
 {
-	"subject": "36e1d3481c77e4968ae050c814a35c1a2d0b953b31832d4c45353fbd474f4c46",
-	"name": "Dos y Dos",
-	"description": "Skin Rules-2$ a hole, 1 dot is 2$-2 tie all tie. Click URL below for all rules.",
-	"policy": "golfcoin.json",
-	"ticker": "GOLF",
-	"url": "https://bit.ly/golfcoin",
-	"logo": "gc.jpg",
-	"decimals": 0
+  "subject": "36e1d3481c77e4968ae050c814a35c1a2d0b953b31832d4c45353fbd474f4c46",
+  "name": "Dos y Dos",
+  "description": "Skin Rules-2$ a hole, 1 dot is 2$-2 tie all tie. Click URL below for all rules.",
+  "policy": "golfcoin.json",
+  "ticker": "GOLF",
+  "url": "https://bit.ly/golfcoin",
+  "logo": "gc.jpg",
+  "decimals": 0
 }
